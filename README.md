@@ -45,4 +45,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by LLpereira :wave
+Feito com ♥ by LLpereira 
